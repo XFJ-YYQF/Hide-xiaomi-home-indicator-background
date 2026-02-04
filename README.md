@@ -1,4 +1,5 @@
-# 小米小白条沉浸模块/Hide-xiaomi-home-indicator-background
+# 小米小白条沉浸模块
+# Hide xiaomi home indicator background magisk module
 ## 我很懒，如果你刷入模块后无效，请参考以下自行修改
 
 > 讲真，进我 Group 的有一半人进来就问为什么小白条沉浸模块失效了......
